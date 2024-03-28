@@ -129,9 +129,9 @@ Use the following prompt, change the placeholders as required.
 ```
 Taking into account:
 - Don't take into account year 0
-- Years 1 (current year) to 3: Estimated cost of $1000000 split into three years
+- Years 1 (current year) to 3: Estimated cost of ${INCLUDE YOUR BUDGET} split into three years
 - After year 3: 10% of the initial investment for ongoing BAU
-- An ongoing benefit of $150000 evident after year 3
+- An ongoing benefit of ${INCLUDE DOLLAR BENEEFIT} evident after year 3
 - Discount rate of 10%
 Utilising the Net Present Value tool and considering a 7-year period, provide all the figures per year and summarise the information for inclusion in the business case document intended for leadership review. Calculate the Net Present Value for each year and highlight whether the amount after 7 years is positive or negative.
 ```
