@@ -10,9 +10,11 @@ Navigate directly to [Azure OpenAI Studio](https://oai.azure.com/?azure-portal=t
 
 ![Create OpenAI](../../media/openai-create-resource.png)
 
+
+
 Configure the following options:
 
-**Make sure you select EAST US**
+**Make sure you select 'Australia East' or 'East US' or 'Sweden Central'**
 
 ![OpenAI Create](../../media/openai-create-eus.png)
 
