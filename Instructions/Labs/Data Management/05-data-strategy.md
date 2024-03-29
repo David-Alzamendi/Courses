@@ -6,6 +6,8 @@ Craft a streamlined data strategy to enhance customer satisfaction and NPS. Empl
 # Download Template
 For this exercise, download the following template where information will be captured.
 
+There is a spelling mistake in the template, you might see two different company names EverBright/GreenLeaf, any name is correct for the activity.  
+
 [Download Template](../../../Labfiles/create-data-strategy/EverBright_Retail_Data_Strategy_Template.docx)
 
 If you don't have Microsoft Word, you can use one of the available OneNote pages, rename it to your name. 
@@ -14,26 +16,26 @@ https://davidalzamendi-my.sharepoint.com/:o:/g/personal/david_techtalkcorner_com
 
 
 # Fictitious Company
-EverBright Retailers, a prominent retail company known for its wide range of sustainable and eco-friendly products, has experienced a drop in its Net Promoter Score (NPS) from 65 to 60 over the past year. This decline has triggered concerns within the senior management team about customer satisfaction, loyalty, and the overall brand perception in the market. EverBright prides itself on being a customer-centric organisation, and maintaining a high NPS is crucial for its business strategy and growth plans.
+EverBright/GreenLeaf Retailers, a prominent retail company known for its wide range of sustainable and eco-friendly products, has experienced a drop in its Net Promoter Score (NPS) from 65 to 60 over the past year. This decline has triggered concerns within the senior management team about customer satisfaction, loyalty, and the overall brand perception in the market. EverBright/GreenLeaf prides itself on being a customer-centric organisation, and maintaining a high NPS is crucial for its business strategy and growth plans.
 
 ## Business Challenge
-The decrease in NPS is a significant concern for EverBright Retailers as it directly impacts customer loyalty and the likelihood of positive word-of-mouth, which has historically been a key driver of EverBright’s growth. The company has set ambitious Key Performance Indicators (KPIs) to not only recover the NPS to its previous level of 65 within the upcoming year but also to increase it further to 70 within two years. Achieving these targets is considered critical for sustaining and enhancing EverBright’s market position, especially in the highly competitive eco-friendly products sector.
+The decrease in NPS is a significant concern for EverBright/GreenLeaf Retailers as it directly impacts customer loyalty and the likelihood of positive word-of-mouth, which has historically been a key driver of EverBright/GreenLeaf’s growth. The company has set ambitious Key Performance Indicators (KPIs) to not only recover the NPS to its previous level of 65 within the upcoming year but also to increase it further to 70 within two years. Achieving these targets is considered critical for sustaining and enhancing EverBright/GreenLeaf’s market position, especially in the highly competitive eco-friendly products sector.
 
 
 ## Diagnosis
-Initial analysis suggests multiple factors contributing to the NPS decline, including customer perceptions of value for money, the in-store experience, and post-purchase support. Despite the high quality of products, feedback indicates that customers are seeking more engaging and personalised shopping experiences, both online and in physical stores. Additionally, there seems to be a gap in effective communication regarding the sustainability impact of customers’ purchases, which is a key motivator for EverBright's target market.
+Initial analysis suggests multiple factors contributing to the NPS decline, including customer perceptions of value for money, the in-store experience, and post-purchase support. Despite the high quality of products, feedback indicates that customers are seeking more engaging and personalised shopping experiences, both online and in physical stores. Additionally, there seems to be a gap in effective communication regarding the sustainability impact of customers’ purchases, which is a key motivator for EverBright/GreenLeaf's target market.
 
 
 ## Strategic Objectives
 - Enhance Customer Experience: Improve the overall shopping experience through personalisation, streamlined purchasing processes, and superior in-store service.
 - Strengthen Post-Purchase Support: Develop robust after-sales support to assist customers with their purchases, ensuring satisfaction and addressing any concerns promptly.
-- Communicate Impact: Clearly articulate the positive environmental impact of customers’ purchases, reinforcing the value and aligning with the motivations of EverBright’s eco-conscious customer base.
+- Communicate Impact: Clearly articulate the positive environmental impact of customers’ purchases, reinforcing the value and aligning with the motivations of EverBright/GreenLeaf’s eco-conscious customer base.
 
 
 # Instructions
-Develop a Data Strategy that takes into account the business challenges and goals at EverBright.
+Develop a Data Strategy that takes into account the business challenges and goals at EverBright/GreenLeaf.
 
-In the Data Strategy, suggest a system, data entities and information that could help develop a guiding policy that aligns with EverBright’s goal of improving NPS. This policy should address identified challenges and capitalize on opportunities to enhance the customer experience through data-driven insights.
+In the Data Strategy, suggest a system, data entities and information that could help develop a guiding policy that aligns with EverBright/GreenLeaf’s goal of improving NPS. This policy should address identified challenges and capitalize on opportunities to enhance the customer experience through data-driven insights.
 
 
 # Upload the Document
